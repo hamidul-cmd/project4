@@ -95,7 +95,9 @@ function Footer() {
             </div>
             <div className="flex justify-between flex-wrap gap-6">
               <div className="xll:w-[249px] h-fit">
-                <h4 className="text-lg font-semibold leading-15 mb-2.5 text-gray__15 3xl:text-xl 3xl:leading-15 3xl:mb-3.5">Home</h4>
+                <h4 className="text-lg font-semibold leading-15 mb-2.5 text-gray__15 3xl:text-xl 3xl:leading-15 3xl:mb-3.5">
+                  Home
+                </h4>
                 <ul className="space-y-1 xll:space-y-2">
                   <li className="text-sm leading-15 text-gray__35 xll:text-base xll:leading-15 3xl:text-lg 3xl:leading-15 relative after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-0 hover:after:w-full after:bg-gray__15 w-fit after:transition-all after:ease-linear after:duration-300 after:rounded-full">
                     <Link>Benefits</Link>
@@ -112,7 +114,9 @@ function Footer() {
                 </ul>
               </div>
               <div className="w-[200px] xll:w-[249px] h-fit">
-                <h4 className="text-lg font-semibold leading-15 mb-2.5 text-gray__15 3xl:text-xl 3xl:leading-15 3xl:mb-3.5">About Us</h4>
+                <h4 className="text-lg font-semibold leading-15 mb-2.5 text-gray__15 3xl:text-xl 3xl:leading-15 3xl:mb-3.5">
+                  About Us
+                </h4>
                 <ul className="space-y-1 xll:space-y-2">
                   <li className="text-sm leading-15 text-gray__35 xll:text-base xll:leading-15 3xl:text-lg 3xl:leading-15 relative after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-0 hover:after:w-full after:bg-gray__15 w-fit after:transition-all after:ease-linear after:duration-300 after:rounded-full">
                     <Link>Company</Link>
@@ -126,9 +130,15 @@ function Footer() {
                 </ul>
               </div>
               <div className="xll:w-[249px] h-fit">
-                <h4 className="text-lg font-semibold leading-15 mb-2.5 text-gray__15 3xl:text-xl 3xl:leading-15 3xl:mb-3.5">Social Profiles</h4>
+                <h4 className="text-lg font-semibold leading-15 mb-2.5 text-gray__15 3xl:text-xl 3xl:leading-15 3xl:mb-3.5">
+                  Social Profiles
+                </h4>
                 <div className="flex gap-3.5 items-center">
-                  <a href="https://www.facebook.com/hamidulislam.maruf.5" target="_blank" className="p-3 bg-white__97 border border-white__95 rounded-md 3xl:p-3.5 3xl:rounded-lg hover:bg-transparent hover:border-transparent transition-all ease-in-out duration-500">
+                  <a
+                    href="https://www.facebook.com/hamidulislam.maruf.5"
+                    target="_blank"
+                    className="p-3 bg-white__97 border border-white__95 rounded-md 3xl:p-3.5 3xl:rounded-lg hover:bg-transparent hover:border-transparent transition-all ease-in-out duration-500"
+                  >
                     <div>
                       <svg
                         className="h-5 w-5 3xl:h-6 3xl:w-6"
@@ -150,7 +160,10 @@ function Footer() {
                       </svg>
                     </div>
                   </a>
-                  <a href="" className="p-3 bg-white__97 border border-white__95 rounded-md 3xl:p-3.5 3xl:rounded-lg hover:bg-transparent hover:border-transparent transition-all ease-in-out duration-500">
+                  <a
+                    href=""
+                    className="p-3 bg-white__97 border border-white__95 rounded-md 3xl:p-3.5 3xl:rounded-lg hover:bg-transparent hover:border-transparent transition-all ease-in-out duration-500"
+                  >
                     <div>
                       <svg
                         className="h-5 w-5 3xl:h-6 3xl:w-6"
@@ -172,7 +185,10 @@ function Footer() {
                       </svg>
                     </div>
                   </a>
-                  <a href="" className="p-3 bg-white__97 border border-white__95 rounded-md 3xl:p-3.5 3xl:rounded-lg hover:bg-transparent hover:border-transparent transition-all ease-in-out duration-500">
+                  <a
+                    href=""
+                    className="p-3 bg-white__97 border border-white__95 rounded-md 3xl:p-3.5 3xl:rounded-lg hover:bg-transparent hover:border-transparent transition-all ease-in-out duration-500"
+                  >
                     <div>
                       <svg
                         className="h-5 w-5 3xl:h-6 3xl:w-6"
@@ -199,7 +215,9 @@ function Footer() {
             </div>
           </div>
           <div className="pt-5 pb-6 xll:pt-7.5 xll:pb-5 3xl:pt-12.5 3xl:pb-7.5">
-            <h5 className="text-center text-sm leading-15 text-gray__40 3xl:text-lg 3xl:leading-15">&copy; 2023 Skillbridge. All rights reserved.</h5>
+            <h5 className="text-center text-sm leading-15 text-gray__40 3xl:text-lg 3xl:leading-15">
+              &copy; 2023 Skillbridge. All rights reserved.
+            </h5>
           </div>
         </div>
       </sectio>
