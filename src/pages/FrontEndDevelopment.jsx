@@ -68,10 +68,14 @@ function FrontEndDevelopment() {
     <>
       <section className="hero pt-12.5 pb-7.5 border-b border-white__90 xll:flex justify-between xll:pt-20 xll:pb-10 3xl:pb-12.5 3xl:pt-24.5">
         <h1 className="text-fs_28 font-semibold leading-15 text-gray__15 mb-4 xll:text-fs_38 xll:mb-0 3xl:text-5xl 3xl:leading-15">
-        UI/UX Design Course
+          UI/UX Design Course
         </h1>
         <p className="text-sm leading-15 text-gray__35 xll:w-[600px] xll:text-base xll:leading-15 3xl:text-lg 3xl:leading5 3xl:w-[748px]">
-        Welcome to our UI/UX Design course! This comprehensive program will equip you with the knowledge and skills to create exceptional user interfaces (UI) and enhance user experiences (UX). Dive into the world of design thinking, wireframing, prototyping, and usability testing. Below is an overview of the curriculum
+          Welcome to our UI/UX Design course! This comprehensive program will
+          equip you with the knowledge and skills to create exceptional user
+          interfaces (UI) and enhance user experiences (UX). Dive into the world
+          of design thinking, wireframing, prototyping, and usability testing.
+          Below is an overview of the curriculum
         </p>
       </section>
       <section className="pt-7.5 pb-12.5 xll:pt-20 xll:pb-24.5 3xl:pt-24.5 3xl:pb-36.5">
